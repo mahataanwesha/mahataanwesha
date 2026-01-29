@@ -8,9 +8,10 @@ I build intelligent apps — from AI chatbots to web tools — with a focus on r
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahataanwesha&show_icons=true&theme=radical" />
+![GitHub Stats](https://github-readme-stats-mahataanweshas-projects.vercel.app/api?username=mahataanwesha&show_icons=true&theme=dark&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=mahataanwesha&theme=radical" />
+![GitHub Streak](https://github-readme-stats-mahataanweshas-projects.vercel.app/api/streak?username=mahataanwesha&theme=dark&hide_border=true)
+
 
 
 ## 💻 Tech Stack
