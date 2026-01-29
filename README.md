@@ -6,11 +6,12 @@ I build intelligent apps — from AI chatbots to web tools — with a focus on r
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-mahataanweshas-projects.vercel.app/api?username=mahataanwesha&show_icons=true&theme=dark&hide_border=true)
+- 🟩 Consistent contributor
+- 🚀 Actively building AI & Web projects
+- 📌 See pinned repositories below
 
-![GitHub Streak](https://github-readme-stats-mahataanweshas-projects.vercel.app/api/streak?username=mahataanwesha&theme=dark&hide_border=true)
 
 
 
